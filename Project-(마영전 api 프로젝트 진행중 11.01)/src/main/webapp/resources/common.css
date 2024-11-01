@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body{
+	background:#c8dbf7;
+}
+
+h1{
+	color:red;
+}
+
+tr, td{
+	border:solid 1px green;	
+}
+
+#box{
+	display: flex;	
+}
+
+#cb{
+	width: 370px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #0085cc;
+	border-radius: 30px;
+	margin: 3px;
+	padding: 1px;
+}
+
+#cs{
+	width: 370px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #6013fd;
+	border-radius: 30px;
+	margin: 3px;
+	padding: 1px;
+}
